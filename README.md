@@ -13,9 +13,6 @@ Help: See the README.pdf for a description of the code and what it does.
 Citations: 
 
 1.) Original version: Pearson K. A., Turner J.D., Sagan T.G. 2013. Photometric observation of HAT-P-16b in the near-UV. New Astronomy. arXiv.1310.5397.
-
 2.) (v7.0): Turner J.D. et al. 2016. Ground-based near-UV observations of 15 transiting exoplanets: Constraints on their atmospheres and no evidence for asymmetrical transits. MNRAS, arXiv.1603.02587
-
 3. Mandel K., Agol E., 2002, ApJ, 580, L171
-
 4. Eastman, J., Gaudi, B.S., Agol, E., 2013. Pasp 125, 83, 1206.5798
